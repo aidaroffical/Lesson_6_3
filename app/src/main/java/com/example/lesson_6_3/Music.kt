@@ -4,5 +4,5 @@ data class Music(
     val rank: String,
     val author: String,
     val title: String,
-    val duration: String
+    val duration: String,
 )
